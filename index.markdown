@@ -11,6 +11,8 @@ permalink: /
 _formerly known as Advanced Software Development Techniques_     
 Our course is structured around understanding the different aspects of the software development lifecycle.  During this course, students will learn to elicit and model software requirements, choose from various design options for a solution, implement a large software system in teams using a modified Scrum methodology, perform quality assurance, and learn about ethical and professional issues, such as diversity issues, how to handle data responsibly, and software licensing.
 
+__NOTE: This is the same CS 3240 course that has always been offered.  We have just updated the name to a more standard name that is used for this area of computer science research and education.__
+
 [Online Coursepack]({{ site.data.externallinks.coursepack }}){: .btn  .btn-primary .mr-2 }
 [Gradescope]({{ site.data.externallinks.gradescope }}){: .btn .btn-primary .mr-2  }
 [Piazza]({{ site.data.externallinks.piazza }}){: .btn .btn-primary .mr-2  }

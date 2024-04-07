@@ -15,8 +15,9 @@ nav_order: 2
 
 ## Basic Info
 {: .no_toc }
-Spring 2024 Semester   
-https://s24.cs3240.org   
+Software Engineering     
+Fall 2024 Semester   
+https://f24.cs3240.org   
 
 ## Lecture and Lab Sessions
 {% for section in site.data.semesterinfo.lecture_sections %} {{ section }}    
@@ -108,6 +109,8 @@ For the context of the project, you should consider the professor "upper managem
 
 ## Course Description
 Analyzes modern software engineering practice for multi-person projects; methods for requirements specification, design, implementation, verification, and maintenance of large software systems; advanced software development techniques and large project management approaches; project planning, scheduling, resource management, accounting, configuration control, and documentation. 
+
+__NOTE: This is the same CS 3240 course that has always been offered.  We have just updated the name to a more standard name that is used for this area of computer science research and education.__
 
 ### Course Objectives
 {: .no_toc }   
