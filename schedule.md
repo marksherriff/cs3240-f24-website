@@ -7,6 +7,11 @@ nav_order: 3
 # Course Schedule
 {: .no_toc }
 
+## UNDER CONTRUCTION
+{: .no_toc }
+
+Currently, this shows the Spring 2024 semester.  The topics will be largely the same, but order may change.
+
 1. TOC
 {:toc} 
 

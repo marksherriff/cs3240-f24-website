@@ -7,6 +7,11 @@ nav_order: 4
 # Project Information
 {: .no_toc }
 
+## UNDER CONTRUCTION
+{: .no_toc }
+
+Currently, this shows the Spring 2024 semester.  The project will be different, but the general format will be similar.
+
 ## Table of Contents
 {: .no_toc .text-delta }
 
