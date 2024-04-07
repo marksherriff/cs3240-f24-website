@@ -1,0 +1,33 @@
+- name: "Sprint 1: Team Organization"
+  goal: "The goal of Sprint 1 is for your team to get to know each other and determine who will take each role on the team.  At your first team meeting on Sunday or Monday the week of 09/03, team members should introduce themselves to each other and your TA who will be working with your team.  The team should then choose roles and select the project that the team will work on for the semester.  The Scrum Master MUST complete this form for the team by the next team meeting: [Team Declaration Form]({{ site.data.externallinks.team_declaration_form }}).  Also, Scrum Masters should initialize the team GitHub repo through [GitHub Classroom]({{ site.data.externallinks.github_classroom_project }}).  Please use your assigned team number for the identifier when prompted (e.g. A-03).  Other team members can then go to that link and accept the assignment, selecting the proper team."
+  start_meeting: "09/03"
+  last_day_of_sprint: "09/09"
+  sprint_check: "09/10"
+  sprint_check_requirements: "Complete the Team Declaration form above ASAP. Initialize your GitHub repo and have all team members join."
+  eval_link: "No Team Evals this week."
+  submit: "Scrum Masters should fill out a [Sprint Report]({{ site.data.externallinks.sprint_report }}) and submit it to Gradescope by noon on Sunday at the completion of the sprint so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  (No, you won't have much to report this week, but think about what's coming up and discuss that.)"
+
+- name: "Sprint 2: Requirements Elicitation"
+  goal: 
+  date_range:
+  sprint_check: TBD
+
+- name: "Sprint 3: Heroku + Google Login"
+  goal: Login Integration
+  date_range:
+  sprint_check: TBD
+
+- name: "Sprint 4: Project Milestone 1"
+  goal: API Integration + Major Feature
+  date_range:
+  sprint_check: TBD
+
+- name: "Sprint 5: Project Milestone 2"
+  goal: Next Major Feature
+  date_range:
+  sprint_check: TBD
+
+- name: "Sprint 6: Beta Version"
+  goal: Beta Version
+  date_range:
+  sprint_check: TBD

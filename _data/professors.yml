@@ -1,0 +1,13 @@
+- name: Prof. Tom Horton
+  office: Rice 401
+  office_hours: "TBD"
+  email: horton@virginia.edu
+  website: https://www.cs.virginia.edu/~horton/
+
+
+- name: Prof. Mark Sherriff
+  office: Rice 400
+  office_hours: "TBD"
+  email: sherriff@virginia.edu
+  website: http://marksherriff.com
+  github: marksherriff

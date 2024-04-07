@@ -1,0 +1,78 @@
+
+.lab {
+    background-color: #ddd!important;
+}
+
+.holiday {
+    background-color: #ccf!important;
+}
+
+.exam {
+    background-color: #fcc!important;
+}
+
+.quiz {
+    background-color: #fcc!important;
+}
+
+.sched {
+    background-color: inherit!important;
+    min-width: auto!important;
+}
+
+table.schedtab {
+    border-spacing: 0px;
+}
+
+table.schedtab th {
+    background-color: #7253ed;
+    color: #fff;
+}
+
+table.schedtab th, table.schedtab td {
+    min-width: auto!important;
+    vertical-align: top;
+}
+
+table.schedtab .mtg { 
+    text-align: center;
+}
+
+table.schedtab .sched-sub { 
+    font-size: smaller;
+}
+
+blockquote {
+    border: 1px solid #999;
+    background-color: #eee;
+    padding: 10px;
+}
+
+footer p {
+    font-size: 10px;
+    text-align: center;
+}
+
+.exercise {
+    border: 1px solid #999;
+    background-color: #fef;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+.example {
+    border: 1px solid #999;
+    background-color: #eff;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
+    font-size: 1em;
+}
+
+.footnotes {
+    margin-top: 1em;
+    padding-top: 1em;
+    border-top: 1px solid #ddd;
+}

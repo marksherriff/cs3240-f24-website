@@ -1,0 +1,195 @@
+- topic: Course Intro and What is Software Engineering?
+  type: lecture
+  date: 01/18
+  coursepack: 'https://www.cs3240.org/modules/process/what-is-se/'
+  guided_practice:
+  artifact: 
+  form:
+  sprint_report:
+  django:
+
+- topic: What is Software Engineering?
+  type: lecture
+  date: 01/23
+  coursepack: 'https://www.cs3240.org/modules/process/what-is-se/'
+
+- topic: Software Construction
+  type: lecture
+  date: 01/25
+  coursepack: https://www.cs3240.org/modules/process/software-construction/
+  due: "GP-A: GitHub (Gradescope)"
+  due_link: "https://docs.google.com/document/d/19YID72qLqowuC7oB8JzMK3UJa-ZcTteluGTrJUGR_Ow/edit?usp=sharing"
+  due2: Project Preference Form
+  due_link2: "https://docs.google.com/forms/d/e/1FAIpQLScRGR4UOMEBV3B_3HaD6cnKRrwUeLdIu2zjPNyMiZl9qUWvwA/viewform?usp=sf_link"
+  topic2: Project Info
+  coursepack2: "https://docs.google.com/presentation/d/1uL37Jiei3NQSLrF67IbUrIQmTF2L5I6mKPuSEb4uWrg/edit?usp=sharing"
+
+- topic: Software Process
+  type: lecture
+  date: 01/30
+  coursepack: https://www.cs3240.org/modules/process/software-process/
+  topic2: Plan-Driven Methods
+  coursepack2: https://www.cs3240.org/modules/process/plan-driven-methodologies/
+  
+
+- topic: Agile Methods
+  type: lecture
+  date: 02/01
+  coursepack: https://www.cs3240.org/modules/process/agile-methodologies/
+  due: "GP-B: Polar Chart (In-Class^)"
+  due_link_to_release: "https://docs.google.com/document/d/196FtLyQ-fWZbqxfgXRthFtaSaiAkTYtT-E3WXWLS6o4/edit?usp=sharing"
+
+- topic: Working on a Software Team
+  type: lecture
+  date: 02/06
+  coursepack: "https://docs.google.com/presentation/d/1EdJfVTeU6jIvB90deU-b1adM-HJs-fwhaObR7gJPy_U/edit?usp=sharing"
+  topic2: Requirements Engineering
+  coursepack2: https://www.cs3240.org/modules/requirements/requirements-engineering/
+
+- topic: Requirements Engineering
+  type: lecture
+  date: 02/08
+  coursepack: https://www.cs3240.org/modules/requirements/requirements-engineering/
+  topic2: Requirements Elicitation
+  coursepack2: https://www.cs3240.org/modules/requirements/requirements-elicitation/
+
+- topic: Requirements Specification
+  type: lecture
+  date: 02/13
+  coursepack: https://www.cs3240.org/modules/requirements/requirements-specification/
+  topic2: Risk Management
+  coursepack2: https://www.cs3240.org/modules/requirements/risk-management/
+
+- topic: Guided Practice C & Quiz Review
+  type: lecture
+  date: 02/15
+  due: "GP-C: Planning Game (In-Class^)"
+  due_link_to_release: "https://docs.google.com/document/d/1O9ZP2OesB72GAiRylDPKXFCAWOsv0K9x4ubLFP-YUeU/edit?usp=sharing"
+  due2: "Django Practice (Gradescope)"
+
+- topic: Quiz 1 - Software Process and Requirements
+  type: quiz
+  date: 02/20
+
+- topic: Django, Heroku, and DevOps
+  type: lecture
+  date: 02/22
+  coursepack: https://www.cs3240.org/modules/architecture/Django-and-MVC/
+
+- topic: Software Architecture
+  type: lecture
+  date: 02/27
+  coursepack: https://www.cs3240.org/modules/architecture/arch-intro/
+
+- topic: Model / View / Controller
+  type: lecture
+  date: 02/29
+  coursepack: https://www.cs3240.org/modules/architecture/mvc/
+  topic2: REST
+  coursepack2: https://www.cs3240.org/modules/architecture/rest/
+
+- topic: Spring Break (No classes)
+  type: holiday
+  date: 03/05
+
+- topic: Spring Break (No classes)
+  type: holiday
+  date: 03/07
+
+- topic: Web Services
+  type: lecture
+  date: 03/12
+  coursepack: https://www.cs3240.org/modules/architecture/web-services/
+  topic2: Modularity Review
+  coursepack2: https://www.cs3240.org/modules/design/modularity/
+  due: "GP-D: Frameworks (Gradescope)"
+  due_link_to_release: "https://docs.google.com/document/d/1VxILWRVKXPDMORuW-JQu882wXU3kP0ZP1LJkcbahXPs/edit?usp=sharing"
+
+- topic: Reading and Understanding Design Documents
+  type: lecture
+  date: 03/14
+  coursepack: "https://docs.google.com/presentation/d/1fkEQYXRyqcEQgDm9erP3G81TVbzH1yxvlM1yL3Vqz4o/edit?usp=sharing"
+
+- topic: Reading Design Documents
+  type: lecture
+  date: 03/19
+  coursepack: #
+  due: "GP-E: Design Diagrams (In-Class^)"
+  due_link: #
+
+- topic: Verification and Validation 
+  type: lecture
+  date: 03/21
+  coursepack: "https://www.cs3240.org/modules/v&v/v-and-v/"
+
+- topic: Verification and Validation 
+  type: lecture
+  date: 03/26
+  coursepack: "https://www.cs3240.org/modules/v&v/v-and-v/"
+  due: "GP-F: V&V Techniques (In-Class^)"
+  due_link: # 
+
+- topic: Quiz 2 - Software Architecture and Design
+  type: quiz
+  date: 03/28
+
+- topic: Software Maintenance
+  type: lecture
+  date: 04/02
+  coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/maintenance/"
+
+- topic: Software Debugging
+  type: lecture
+  date: 04/04
+  coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/maintenance/"
+
+- topic: DEI in Software Engineering
+  type: lecture
+  date: 04/09
+  coursepack: "https://www.cs3240.org/modules/ethics%20&%20professionalism/jedi/"
+
+- topic: SE Code of Ethics
+  type: lecture
+  date: 04/11
+  coursepack: "https://www.cs3240.org/modules/ethics%20&%20professionalism/se-code-of-ethics/"
+  due: "GP-G: Ethics (In-Class^)"
+  due_link: #
+
+- topic: Software Usability
+  type: lecture
+  date: 04/16
+  coursepack: "https://www.cs3240.org/modules/design/usability/"
+
+- topic: Personas and Wireframes
+  type: lecture
+  date: 04/18
+  coursepack: 
+  due: "GP-H: Wireframes (In-Class^)"
+  due_link_to_release: "https://docs.google.com/document/d/1qNtyPslygqzSLySMMjNxRAXY4HzrnJDOTUc2H-qN_cA/edit?usp=sharing"
+
+- topic: Software Licensing
+  type: lecture
+  date: 04/23
+  coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/licensing/"
+
+- topic: Quiz 3 - Usability and Professional Issues
+  type: quiz
+  date: 04/25
+
+- topic: Course Review
+  type: lecture
+  date: 04/30
+  due: "GP-I: Licenses (Gradescope)"
+  due_link_to_release: "https://docs.google.com/document/d/1Bik48VdvDfcCOLlIEtE7A0lV8lHR0GdgK8W9FPmYZi4/edit?usp=sharing"
+
+- topic: Exam Session 1 @ 9:00 AM
+  type: quiz
+  date: 05/02
+  due: "Final Exam Info"
+  due_link_to_release: "https://f23.cs3240.org/syllabus.html#final-exam-and-project-demos"
+
+- topic: Exam Session 2 @ 2:00 PM
+  type: quiz
+  date: 05/04
+  due: "Final Exam Info"
+  due_link_to_release: "https://f23.cs3240.org/syllabus.html#final-exam-and-project-demos"

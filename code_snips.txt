@@ -1,0 +1,15 @@
+
+### {{sprint.name}}
+__Sprint Dates:__ {{sprint.start_meeting}}-{{sprint.last_day_of_sprint}}     
+__Sprint Goal Due:__ {{sprint.sprint_check}}
+
+__Goal:__ {{sprint.goal}}
+
+__Requirements:__ {{sprint.sprint_check_requirements}}
+
+__How To Submit:__ {{sprint.submit}}
+
+__Team Evals:__ {{sprint.eval_link}}
+
+{% endfor %}
+

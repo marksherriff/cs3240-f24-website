@@ -1,0 +1,41 @@
+scrum_master_report_template: "#"
+
+ux_report_template: "#"
+
+beta_testing_report_template: "#"
+
+requirements_report_template: "#"
+
+devops_report_template: "#"
+
+sa_report_template: "#"
+
+project_management_spreadsheet: "#"
+
+sprint_report: "#"
+
+sprint_team_evaluations: "#"
+
+final_submission_pledge: "#"
+
+final_team_evaluations: "#"
+
+team_preference_form: "#"
+
+team_declaration_form: "#"
+
+github_classroom_project: "#"
+
+github_classroom_django: "#"
+
+github_classroom_gp-a: "#"
+
+github_organization: "https://github.com/uva-cs3240-f24"
+
+gradescope: "#"
+
+piazza: "#"
+
+lms: "#"
+
+coursepack: "https://www.cs3240.org"
