@@ -55,7 +55,7 @@ We will be using Discord for the following:
 We will not be using Discord for:
 
 * Long-form project questions / help (use Piazza or go to office hours)
-* Regrades (use Gradescope first, then office hours only if not resolved)
+* Reassessment of graded work (use Gradescope)
 * Direct messaging the staff about code questions, etc. (use Piazza)
 * Direct messaging the faculty about sensitive / grading issues (use private messages in Piazza or email)
 
@@ -74,7 +74,7 @@ We will be using Piazza for the following:
 
 We will not be using Piazza for:
 
-* Regrades (use Gradescope first, then office hours only if not resolved)
+* Reassessment of graded work (use Gradescope)
 * Meme posting (use Discord :-) )
 
 ### Email
@@ -87,7 +87,7 @@ We will be using email for the following:
 
 We will not be using email for:
 
-* Regrades (use Gradescope first, then office hours only if not resolved)
+* Reassessment of graded work (use Gradescope)
 * Tech help (use Piazza)
 * Project questions (use Piazza)
 * Guided Practice questions (use Piazza)
@@ -101,11 +101,11 @@ You should, in general, email the professor for the section that you are enrolle
 * Online office hours (TA) -> Discord
 * Technical questions (python, django, heroku, etc.) -> Piazza or TA office hours
 * Project requriements -> Piazza or office hours
-* Regrades -> Gradescope (office hours only if issues with Gradescope)
+* Reassessment of graded work -> Gradescope (office hours only if issues with Gradescope, such as a non-submission)
 * Personal issues -> Email your professor
 * Team issues -> Email your TA and/or your professor
 
-For the context of the project, you should consider the professor "upper management" and the TAs "senior developers / managers."  Thus, high-level, requirements-based, or course-management sort of questions should go to the professor, while all technical and initial grading questions should to go the TAs.  (Honestly, you're probably going to get a faster, better answer to a Django question if you go to the TAs... sure, the professor can answer it... eventually... after a lot of Googling... but you could also ask a TA who did the project last semester or has been a TA for several semesters...)
+For the context of the project, you should consider the professor "upper management" and the TAs "senior developers / managers."  Thus, high-level, requirements-based, or course-management sort of questions should go to the professor, while all technical questions should to go the TAs.  (Honestly, you're probably going to get a faster, better answer to a Django question if you go to the TAs... sure, the professor can answer it... eventually... after a lot of Googling... but you could also ask a TA who did the project last semester or has been a TA for several semesters...)
 
 ## Course Description
 Analyzes modern software engineering practice for multi-person projects; methods for requirements specification, design, implementation, verification, and maintenance of large software systems; advanced software development techniques and large project management approaches; project planning, scheduling, resource management, accounting, configuration control, and documentation. 
@@ -175,7 +175,8 @@ We will utilize a positive-reinforcement grading policy in this course. As the p
 {: .no_toc }
 
 * Your one lowest GP is converted to 5 XP at the end of the semester.  This should primarily be used in case you are ill or must miss class for some other reason. 
-* Due to the nature of most in-class GPs, these cannot be made up if they are missed.
+* Due to the nature of most in-class GPs, these cannot be made up if they are missed.  However, please note that these are relatively low-stakes and missing an additional GP is not going to have an outsized effect on your final grade.
+* Students that have to miss multiple GPs due to various reasons (e.g., sports team travel, SDAC accommodations) should talk to the professor as soon as possible.
 * Each of the five team roles has a different document to submit that demonstrates an aspect of the position.
 * Your evaluation score is based upon several intermediate evals from teammates throughout the semester, a final evaluation from teammates, and the opinion of the staff.
 * There are 3 total quizzes, which will be taken in-person during lecture. Students can earn back up to 100 XP from missed quiz questions on the final exam.
@@ -186,13 +187,26 @@ We will utilize a positive-reinforcement grading policy in this course. As the p
   - Collaborating on code with team members
   - Committing working, meaningful code to the project on the main branch that makes it to the final version of the system (e.g. coding a feature of the system, not just fixing deployment issues or adding test cases)
 * Students who do not fully participate in the project per the information above will have XP _removed_ from various team-related scores, including the sprint scores, final team project score, and team evaluation score.  We do this because if the student did not fully participate, then that XP was not properly assigned because they gained no experience through the work.  Removing XP will be represented as a negative team evaluation score in our system so as to make the penalty clear to the staff and student.
+* _Failure to participate in the team project can result in automatically failing the course, regardless of other assessment scores._
+
+### Reassessment Policy
+
+You may request a reassessment of any graded work in this course, subject to the following conditions:
+
+- Students may only request the reassessment of returned coursework in writing via Gradescope. A verbal appeal is not appropriate and will not be accepted nor will requests made through other methods (e.g. email, office hours, etc.).  If a follow up is necessary, we will reach out to you to come to office hours to provide additional information. All reassessment requests will be handled by the instructors (except for programming assessments, such as Django Practice).
+- Reassessment requests will open 24 hours after grades are released and will close 7 days after a grade has been released.
+- Students must provide a written rationale for requesting reassessment, with specific reference to: the learning outcomes, assessment rubric, qualitative grade descriptors, and any feedback provided to you.
+- Reassessment requests that are based on feeling or hearsay rather than information indicated above will not be considered and no further reassessment may be made. Examples include: "I feel you graded this too harshly", "My friend did the same thing and got a better score", etc.
+- Students who submit an item for reassessment are advised that the entire work will may be reconsidered and that the result of the reassessment may be that the grade will increase, stay the same, or decrease accordingly.
+- Graded work may only be reassessed once -- you may not request reassessment a second time for the same item/problem and any changes to the grade made during reassessment will be final.
+
 
 ### Final Exam and Project Demos
 {: .no_toc }
 
 __Final Exam:__ The final exam in this course is an opportunity to show mastery of material that was previously missed on earlier quizzes.  If a student has earned the maximum number of points on the three quizzes, they have a set of scores they are comfortable with, or if they already have an A in the course, the student does not (and should not) take the final exam.  If a student wishes to take the final exam, they can earn back up to 100 XP total toward the available 300 XP from quizzes.  We will create a custom final exam for each student based upon only the questions the student missed on the previous three quizzes.  While it is possible to lose points on the final exam, this is a relatively rare occurance, usually stemming from wild guessing on questions.  Students can come to either exam session, regardless of enrolled section.
 
-__Project Demos:__ Student teams will demo their final project to a professor near the end of the semester.  All students are expected to attend the demo for their team.  Demos should only last around 20 minutes.  Students do not need to prepare anything for the demo (e.g. no slides, no presentation, etc.).  The team will walk the professor through the app and will answer various questions about its design and implementation.
+__Project Demos:__ If time allows at the end of the semester, student teams will demo their final project to a professor near the end of the semester.  All students are expected to attend the demo for their team.  Demos should only last around 20 minutes.  Students do not need to prepare anything for the demo (e.g. no slides, no presentation, etc.).  The team will walk the professor through the app and will answer various questions about its design and implementation.  More information will be shared in the final weeks of the semester once the schedule is finalized.
 
 ## Class Management
 
@@ -288,7 +302,7 @@ If there is the possibility of inclement weather that could affect class, it is 
 {: .no_toc }
 It is our goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please make an appointment to with your instructor outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center (SDAC) to discuss a range of options to removing barriers in this course, including official accommodations. We are fortunate to have an SDAC advisor, Courtney MacMasters, physically located in Engineering. You may email her at [cmacmasters@virginia.edu](mailto:cmacmasters@virginia.edu) to schedule an appointment. For general questions please visit the SDAC website: [sdac.studenthealth.virginia.edu](http://sdac.studenthealth.virginia.edu). 
 
-If you have already been approved for accommodations through SDAC, please send your instructor your accommodation letter as soon as possible. We happily and discretely provide the recommended accommodations for those students identified by the SDAC. For quizzes and other individual assessments, please remind us one week before an exam so we can make accommodations.  For team related assessments, we cannot grant significant accommodations to deadlines for an entire team due to accommodations of individuals on the team. However, we are more than happy to discuss with you the best way to integrate with your team with your accommodations in consideration. Please make an appointment with your instructor outside of office hours to have this discussion.
+If you have already been approved for accommodations through SDAC, please send your instructor your accommodation letter as soon as possible. We happily and discretely provide the recommended accommodations for those students identified by the SDAC. For quizzes and other individual assessments, please remind us one week before a quiz so we can make accommodations.  For team related assessments, we cannot grant significant accommodations to deadlines for an entire team due to accommodations of individuals on the team. However, we are more than happy to discuss with you the best way to integrate with your team with your accommodations in consideration. Please make an appointment with your instructor outside of office hours to have this discussion.  If you have modified attendance or modified deadlines, our general policy for in-class Guided Practice activities is to "do the best you can" with attendance and we can evaluate at the end of the semester if there is a need for adjustment.  We will not grant take-home versions of the in-class Guided Practices as they are meant for group discussion.  Guided Practices that are normally take-home assessments will be granted normal extensions.
 
 If you have other special circumstances (athletics, other university-related activities, etc.), please contact the instructor as soon as you know these may affect you in class.
 
