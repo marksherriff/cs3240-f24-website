@@ -146,22 +146,16 @@
 
 - topic: SE Code of Ethics
   type: lecture
-  date: 04/11
+  date: 11/19
   coursepack: "https://www.cs3240.org/modules/ethics%20&%20professionalism/se-code-of-ethics/"
   due: "GP-G: Ethics (In-Class^)"
   due_link: #
 
-- topic: Software Usability
-  type: lecture
-  date: 11/19
-  coursepack: "https://www.cs3240.org/modules/design/usability/"
-
 - topic: Personas and Wireframes
   type: lecture
   date: 11/21
-  coursepack: 
+  coursepack: "https://www.cs3240.org/modules/design/usability/"
   due: "GP-H: Wireframes (In-Class^)"
-  due_link_to_release: "#"
 
 - topic: Software Licensing
   type: lecture
