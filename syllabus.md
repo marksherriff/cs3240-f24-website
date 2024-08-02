@@ -190,7 +190,7 @@ We will utilize a positive-reinforcement grading policy in this course. As the p
 * _Failure to participate in the team project can result in automatically failing the course, regardless of other assessment scores._
 
 ### Reassessment Policy
-
+{: .no_toc }
 You may request a reassessment of any graded work in this course, subject to the following conditions:
 
 - Students may only request the reassessment of returned coursework in writing via Gradescope. A verbal appeal is not appropriate and will not be accepted nor will requests made through other methods (e.g. email, office hours, etc.).  If a follow up is necessary, we will reach out to you to come to office hours to provide additional information. All reassessment requests will be handled by the instructors (except for programming assessments, such as Django Practice).
