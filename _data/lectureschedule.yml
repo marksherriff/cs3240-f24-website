@@ -109,58 +109,59 @@
   due: "GP-E: Design Diagrams (In-Class^)"
   due_link: #
 
-- topic: Verification and Validation 
+- topic: Personas and Wireframes
   type: lecture
   date: 10/24
-  coursepack: "https://www.cs3240.org/modules/v&v/v-and-v/"
+  coursepack: "https://www.cs3240.org/modules/design/usability/"
+  due: "GP-F: Wireframes (In-Class^)"
 
 - topic: Verification and Validation 
   type: lecture
   date: 10/29
   coursepack: "https://www.cs3240.org/modules/v&v/v-and-v/"
-  due: "GP-F: V&V Techniques (In-Class^)"
-  due_link: # 
 
-- topic: Quiz 2 - Software Architecture and Design
-  type: quiz
+- topic: Verification and Validation 
+  type: lecture
   date: 10/31
+  coursepack: "https://www.cs3240.org/modules/v&v/v-and-v/"
+  due: "GP-G: V&V Techniques (In-Class^)"
+  due_link: # 
 
 - topic: Election Day (No classes)
   type: holiday
   date: 11/05
 
-- topic: Software Maintenance
-  type: lecture
+- topic: Quiz 2 - Software Architecture and V&V
+  type: quiz
   date: 11/07
-  coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/maintenance/"
-
-- topic: Software Debugging
-  type: lecture
-  date: 11/12
-  coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/maintenance/"
 
 - topic: DEI in Software Engineering
   type: lecture
-  date: 11/14
+  date: 11/12
   coursepack: "https://www.cs3240.org/modules/ethics%20&%20professionalism/jedi/"
 
 - topic: SE Code of Ethics
   type: lecture
-  date: 11/19
+  date: 11/14
   coursepack: "https://www.cs3240.org/modules/ethics%20&%20professionalism/se-code-of-ethics/"
-  due: "GP-G: Ethics (In-Class^)"
+  due: "GP-H: Ethics (In-Class^)"
   due_link: #
 
-- topic: Personas and Wireframes
+- topic: Engineering Secure Software
+  type: lecture
+  date: 11/19
+  coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/maintenance/"
+
+- topic: Software Maintenance
   type: lecture
   date: 11/21
-  coursepack: "https://www.cs3240.org/modules/design/usability/"
-  due: "GP-H: Wireframes (In-Class^)"
+  coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/maintenance/"
 
 - topic: Software Licensing
   type: lecture
   date: 11/26
   coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/licensing/"
+  due: "GP-I: Secure Software (Gradescope)"
 
 - topic: Thanksgiving (No classes)
   type: holiday
@@ -173,7 +174,7 @@
 - topic: Course Review
   type: lecture
   date: 12/05
-  due: "GP-I: Licenses (Gradescope)"
+  due: "GP-J: Licenses (Gradescope)"
   due_link_to_release: "#"
 
 - topic: Exam Session 1 @ 9:00 AM
