@@ -298,7 +298,7 @@ For artifact documents and other writing prompts, generative AI is discouraged a
 {: .no_toc }
 If there is the possibility of inclement weather that could affect class, it is your responsibility to stay informed.  Information about how to sign up for email and/or text alerts from UVA Emergency Management, along with the current University status, can be found at [https://uvaemergency.virginia.edu/](https://uvaemergency.virginia.edu/).
 
-### SDAC and Other Special Circumstances
+### SDAC / Students with Disabilities or other Learning Needs
 {: .no_toc }
 It is our goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please make an appointment to with your instructor outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center (SDAC) to discuss a range of options to removing barriers in this course, including official accommodations. We are fortunate to have an SDAC advisor, Courtney MacMasters, physically located in Engineering. You may email her at [cmacmasters@virginia.edu](mailto:cmacmasters@virginia.edu) to schedule an appointment. For general questions please visit the SDAC website: [sdac.studenthealth.virginia.edu](http://sdac.studenthealth.virginia.edu). 
 
@@ -337,7 +337,7 @@ __NOTE:__ These resources are available for BACS majors as well!  You are still 
 
 ### Health and Wellbeing
 {: .no_toc }
-* [Kelly Garrett - Assistant Dean of Students](https://engineering.virginia.edu/about/offices/office-graduate-programs/student-support-services#accordion716460), Student Safety and Support  
+* [Kelly Garrett](mailto:mwu5gs@virginia.edu), Assistant Dean of Students, Student Safety and Support 
 * Elizabeth Ramirez-Weaver, CAPS counselor
 * Katie Fowler, CAPS counselor
 
@@ -348,7 +348,7 @@ You may schedule time with the CAPS counselors through [Student Health](https://
 The [Center for Diversity in Engineering](https://engineering.virginia.edu/about/diversity-and-engagement/center-diversity-engineering) (CDE) is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world.  The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers.
 
 
-### Statement on Violence
+### Harassment, Discrimination, and Interpersonal Violence
 {: .no_toc }
 The University of Virginia is dedicated to providing a safe and equitable learning environment for all students. If you or someone you know has been affected by power-based personal violence, more information can be found on the [UVA Sexual Violence website](http://www.virginia.edu/sexualviolence) that describes reporting options and resources available.  
 
