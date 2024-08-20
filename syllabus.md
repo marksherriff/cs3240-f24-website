@@ -110,7 +110,7 @@ For the context of the project, you should consider the professor "upper managem
 ## Course Description
 Analyzes modern software engineering practice for multi-person projects; methods for requirements specification, design, implementation, verification, and maintenance of large software systems; advanced software development techniques and large project management approaches; project planning, scheduling, resource management, accounting, configuration control, and documentation. 
 
-__NOTE: This is the same CS 3240 course that has always been offered.  We have just updated the name to a more standard name that is used for this area of computer science research and education.__
+_NOTE: This is the same CS 3240 course that has always been offered.  We have just updated the name to a more standard name that is used for this area of computer science research and education._
 
 ### Course Objectives
 {: .no_toc }   
@@ -180,13 +180,14 @@ We will utilize a positive-reinforcement grading policy in this course. As the p
 * Each of the five team roles has a different document to submit that demonstrates an aspect of the position.
 * Your evaluation score is based upon several intermediate evals from teammates throughout the semester, a final evaluation from teammates, and the opinion of the staff.
 * There are 3 total quizzes, which will be taken in-person during lecture. Students can earn back up to 100 XP from missed quiz questions on the final exam.
+* Students who miss a quiz due to a reason approved by a professor can make up the quiz only before it is returned to the class after it has been graded.  If it is not possible for a student to do this, they will be allowed to make up extra XP on the final exam for the missed quiz.
 * There are 6 sprints during the project.  At each sprint check, the TAs will determine if your team has met the requirements for the project up to that point.  
 * We expect __all students__ to __fully participate__ in the coding of the project.  This includes:
   - Working successfully with other team members
   - Attending team meetings (both with and without the TA)
   - Collaborating on code with team members
   - Committing working, meaningful code to the project on the main branch that makes it to the final version of the system (e.g. coding a feature of the system, not just fixing deployment issues or adding test cases)
-* Students who do not fully participate in the project per the information above will have XP _removed_ from various team-related scores, including the sprint scores, final team project score, and team evaluation score.  We do this because if the student did not fully participate, then that XP was not properly assigned because they gained no experience through the work.  Removing XP will be represented as a negative team evaluation score in our system so as to make the penalty clear to the staff and student.
+* Students who do not fully participate in the project per the information above will have XP _removed_ from various team-related scores, including the sprint scores, final team project score, and team evaluation score.  We do this because if the student did not fully participate, then that XP was not properly assigned because they gained no experience through the work.  Removing XP will be represented as a negative team evaluation score in Canvas so as to make the penalty clear to the staff and student.
 * _Failure to participate in the team project can result in automatically failing the course, regardless of other assessment scores._
 
 ### Reassessment Policy
@@ -288,7 +289,7 @@ Use the following general format as an example for citing code you use. You may 
 
 ## Policy on Use of Generative AI
 {: .no_toc }
-In general, we will treat the use of generative AI the same as we would a student asking for help on StackOverflow or finding other sources of code.  For coding questions (i.e. "How do I make Google login work with Django?"), students are welcome to use generative AI.  This includes tools such as ChatGPT, GitHub Copilot, and other code completion systems.  (NOTE: We actually asked ChatGPT the question above and it came back with a pretty good answer!  WeI suggest trying it!)  
+In general, we will treat the use of generative AI the same as we would a student asking for help on StackOverflow or finding other sources of code.  For coding questions (i.e. "How do I make Google login work with Django?"), students are welcome to use generative AI.  This includes tools such as ChatGPT, GitHub Copilot, and other code completion systems.  (NOTE: We actually asked ChatGPT the question above and it came back with a pretty good answer!  We suggest trying it!)  
 
 For artifact documents and other writing prompts, generative AI is discouraged and honestly won't be of too much help regardless.  While these tools can give you some impressive boilerplate text that would work for a generic presentation, it's not going to have the specific details of what your team had to do to make your project a success, and that's what we are specifically assessing.  So, if you lean too heavily on generative AI, your submission isn't going to earn much XP (if any) because we really don't want to read a bunch of generic "why is devops good" sort of text.  We care a lot more about how your team was impacted.
 
