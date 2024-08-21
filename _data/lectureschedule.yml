@@ -48,20 +48,20 @@
   coursepack: https://www.cs3240.org/modules/requirements/requirements-engineering/
   topic2: Requirements Elicitation
   coursepack2: https://www.cs3240.org/modules/requirements/requirements-elicitation/
+  due: "Django Practice (Gradescope)"
 
 - topic: Requirements Specification
   type: lecture
   date: 09/19
   coursepack: https://www.cs3240.org/modules/requirements/requirements-specification/
-  topic2: Risk Management
-  coursepack2: https://www.cs3240.org/modules/requirements/risk-management/
+  topic2: User Personas
+  coursepack2: #
 
 - topic: Guided Practice C & Quiz Review
   type: lecture
   date: 09/24
   due: "GP-C: Planning Game (In-Class^)"
   due_link_to_release: "#"
-  due2: "Django Practice (Gradescope)"
 
 - topic: Quiz 1 - Software Process and Requirements
   type: quiz
@@ -71,6 +71,8 @@
   type: lecture
   date: 10/01
   coursepack: https://www.cs3240.org/modules/architecture/Django-and-MVC/
+  topic2: Risk Management
+  coursepack2: https://www.cs3240.org/modules/requirements/risk-management/
 
 - topic: Software Architecture
   type: lecture
@@ -109,31 +111,31 @@
   due: "GP-E: Design Diagrams (In-Class^)"
   due_link: #
 
-- topic: Personas and Wireframes
+- topic: Wireframes
   type: lecture
   date: 10/24
   coursepack: "https://www.cs3240.org/modules/design/usability/"
   due: "GP-F: Wireframes (In-Class^)"
 
-- topic: Verification and Validation 
-  type: lecture
+- topic: Quiz 2 - Software Architecture and V&V
+  type: quiz
   date: 10/29
-  coursepack: "https://www.cs3240.org/modules/v&v/v-and-v/"
 
 - topic: Verification and Validation 
   type: lecture
   date: 10/31
   coursepack: "https://www.cs3240.org/modules/v&v/v-and-v/"
-  due: "GP-G: V&V Techniques (In-Class^)"
-  due_link: # 
 
 - topic: Election Day (No classes)
   type: holiday
   date: 11/05
 
-- topic: Quiz 2 - Software Architecture and V&V
-  type: quiz
+- topic: Verification and Validation 
+  type: lecture
   date: 11/07
+  coursepack: "https://www.cs3240.org/modules/v&v/v-and-v/"
+  due: "GP-G: V&V Techniques (In-Class^)"
+  due_link: # 
 
 - topic: DEI in Software Engineering
   type: lecture

@@ -7,9 +7,6 @@ nav_order: 3
 # Course Schedule
 {: .no_toc }
 
-## UNDER CONTRUCTION
-{: .no_toc }
-
 1. TOC
 {:toc} 
 
