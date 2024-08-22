@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Project Working Version
-permalink: /projectworking/
+title: Project Draft Version
+permalink: /projectdraft/
 nav_exclude: true
 ---
 
