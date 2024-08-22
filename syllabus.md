@@ -174,7 +174,7 @@ We will utilize a positive-reinforcement grading policy in this course. As the p
 ### Assessment Notes
 {: .no_toc }
 
-* Your one lowest Guided Practice (GP) is converted to 5 XP at the end of the semester.  This should primarily be used in case you are ill or must miss class for some other reason. 
+* Your one lowest Guided Practice (GP) is converted to 5 XP (full points) at the end of the semester.  This should primarily be used in case you are ill or must miss class for some other reason. 
 * Due to the nature of most in-class GPs, these cannot be made up if they are missed.  However, please note that these are relatively low-stakes and missing an additional GP is not going to have an outsized effect on your final grade.
 * Students that have to miss multiple GPs due to various reasons (e.g., sports team travel, SDAC accommodations) should talk to the professor as soon as possible.
 * Each of the five team roles has a different document to submit that demonstrates an aspect of the position.
