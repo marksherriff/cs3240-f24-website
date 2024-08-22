@@ -100,7 +100,7 @@ You should, in general, email the professor for the section that you are enrolle
 * Team meetings -> Discord
 * Online office hours (TA) -> Discord
 * Technical questions (python, django, heroku, etc.) -> Piazza or TA office hours
-* Project requriements -> Piazza or office hours
+* Project requirements -> Piazza or office hours
 * Reassessment of graded work -> Gradescope (office hours only if issues with Gradescope, such as a non-submission)
 * Personal issues -> Email your professor
 * Team issues -> Email your TA and/or your professor
@@ -142,7 +142,7 @@ You should meet the following requirements to take this class:
 4. You will be expected to learn programming languages and platforms on your own in this class! If you don’t feel comfortable with this, please talk to the staff as soon as possible!
 
 ## Assessment and Grading
-We will utilize a positive-reinforcement grading policy in this course. As the purpose of this class is for you to gain experience as a software developer working in a team on a larger-scale project, your grade in this course will be based on experience points (XP). Every student begins the course with 0 XP.  As you complete assessments, work on the project, and complete Guided Practice activities, you will earn XP.  Some assessments will have a way to retake or resubmit to earn some of the XP that was not earned on the first attempt.  Please see individual assessments for more information regarding how this mechanic works.
+We will utilize a positive-reinforcement grading policy in this course. As the purpose of this class is for you to gain experience as a software developer working in a team on a larger-scale project, your grade in this course will be based on experience points (XP). Every student begins the course with 0 XP.  As you complete assessments, work on the project, and complete Guided Practice (GP) activities, you will earn XP.  Some assessments will have a way to retake or resubmit to earn some of the XP that was not earned on the first attempt.  Please see individual assessments for more information regarding how this mechanic works.
 
 | Assessment	| Who	| Instances	| Max XP 	| Max XP Avail |
 |:--------------|:-----|:---|:-----|:-----|
@@ -174,14 +174,14 @@ We will utilize a positive-reinforcement grading policy in this course. As the p
 ### Assessment Notes
 {: .no_toc }
 
-* Your one lowest GP is converted to 5 XP at the end of the semester.  This should primarily be used in case you are ill or must miss class for some other reason. 
+* Your one lowest Guided Practice (GP) is converted to 5 XP at the end of the semester.  This should primarily be used in case you are ill or must miss class for some other reason. 
 * Due to the nature of most in-class GPs, these cannot be made up if they are missed.  However, please note that these are relatively low-stakes and missing an additional GP is not going to have an outsized effect on your final grade.
 * Students that have to miss multiple GPs due to various reasons (e.g., sports team travel, SDAC accommodations) should talk to the professor as soon as possible.
 * Each of the five team roles has a different document to submit that demonstrates an aspect of the position.
 * Your evaluation score is based upon several intermediate evals from teammates throughout the semester, a final evaluation from teammates, and the opinion of the staff.
 * There are 3 total quizzes, which will be taken in-person during lecture. Students can earn back up to 100 XP from missed quiz questions on the final exam.
 * Students who miss a quiz due to a reason approved by a professor can make up the quiz only before it is returned to the class after it has been graded.  If it is not possible for a student to do this, they will be allowed to make up extra XP on the final exam for the missed quiz.
-* There are 6 sprints during the project.  At each sprint check, the TAs will determine if your team has met the requirements for the project up to that point.  
+* There are 6 sprints during the project.  At each sprint check, the TAs will determine if your team has met the requirements for the project up to that point.  (A sprint is a one- or two-week period of work on the project, and the sprint check happens at the end of that period to see if the goals of that sprint were met.)
 * We expect __all students__ to __fully participate__ in the coding of the project.  This includes:
   - Working successfully with other team members
   - Attending team meetings (both with and without the TA)
