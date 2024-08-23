@@ -5,13 +5,8 @@ permalink: /projectdraft/
 nav_exclude: true
 ---
 
-# Project Information
+# Team Project Information
 {: .no_toc }
-
-## UNDER CONTRUCTION
-{: .no_toc }
-
-Currently, this shows the Spring 2024 semester.  The project will be different, but the general format will be similar.
 
 ## Table of Contents
 {: .no_toc .text-delta }
@@ -19,9 +14,11 @@ Currently, this shows the Spring 2024 semester.  The project will be different, 
 1. TOC
 {:toc}
 
-## Project Overview
+## Team Project Overview
 
-This semester, we are doing something a bit different from previous semesters.  As a class, we are going to focus on one particular type of software system - a "whistleblower" app.  The technical requirements are going to be firmer up front, but your team will still have the ability to customize the theme of the app (e.g., whistleblower to a news organization, whistleblower to the honor committee about an honor violation, etc.) and some of the extended functionality.
+This semester, we are going to be fully focused on projects... literally!  You're going to be building a project management system!  We are going to give you some specific technical requirements that you will have to meet to ensure that all teams are building something that is roughly the same "difficulty."  However, you will have the ability to customize the theming of the app.  The projects could be working with other students on homework assignments, student group event planning, or perhaps related to a hobby you are intersted in.  You can also extend the functionality to better meet the needs of your particular set of users.
+
+From here on, we will refer to your team projects as "Project Management Apps" (PMAs) and "projects" will refer to the
 
 You __must__ meet the base requirements listed below.
 
@@ -32,7 +29,7 @@ You __must__ meet the base requirements listed below.
 - There are four different user types you have to consider:
 	- Anonymous users
 	- Common users with accounts
-	- Site Admins who login to receive what has been submitted (and CANNOT access the Django admin page)
+	- Site Admins who can see all projects
 	- Django Admins that only have access to the Django Admin page (and NOT the app)
 
 - The accounts we will use are:
