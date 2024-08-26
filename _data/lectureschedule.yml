@@ -12,6 +12,8 @@
   type: lecture
   date: 08/29
   coursepack: 'https://www.cs3240.org/modules/process/what-is-se/'
+  topic2: Project Info
+  coursepack2: "#"
 
 - topic: Software Construction
   type: lecture
@@ -19,8 +21,7 @@
   coursepack: https://www.cs3240.org/modules/process/software-construction/
   due: "GP-A: GitHub (Gradescope)"
   due2: Project Preference Form
-  topic2: Project Info
-  coursepack2: "#"
+
 
 - topic: Software Process
   type: lecture
