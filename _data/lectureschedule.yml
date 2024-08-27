@@ -13,7 +13,7 @@
   date: 08/29
   coursepack: 'https://www.cs3240.org/modules/process/what-is-se/'
   topic2: Project Info
-  coursepack2: "#"
+  coursepack2: "https://f24.cs3240.org/project.html"
 
 - topic: Software Construction
   type: lecture
