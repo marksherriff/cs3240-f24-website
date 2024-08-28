@@ -254,12 +254,6 @@ __Goal:__ The Software Architect takes the lead in guiding the team through the 
 
 __Requirements:__ At the beginning of Sprint 5, the staff will introduce a requirements change to the project.  The Software Architect is responsible for leading the team through this change and documenting the needed architectural changes to handle the update.  
 
-The requirements change can be seen above in the Site Admin section of the Base Requirements.  They are also repeated below:
-
-- __Deprecated Requirement:__ ~~A site admin user can mark a submission as having been reviewed, which will be indicated to common users in their list of submissions.  Anonymous users receive no notifications, but the site admin user can still see that the submission has been reviewed.~~
-- __Changed Requirement:__ An incoming submission to the system from a user is initially marked as "New."  When a site admin first views the submission, the submission's status should change from "New" to "In Progress."  If the submission came from a user with an account, they can see the changed status of their submission.  Anonymous users receive no notifications, but the site admin user can still see that the submission has been reviewed.
-- __New Requirement:__ When a site admin completes their action on the submission, they can set the status to "Resolved."  Also, the system shall allow the admin to submit text notes explaining what the resulting action of the submission was.  If the submission came from a user with an account, they can see the changed status of their submission and can read the explanation text from the site admin.  Anonymous users receive no notifications, but the site admin user can still see that the submission has been resolved.
-
 __Team Evals:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form here: [Student Team Sprint Evaluations]({{ site.data.externallinks.sprint_team_evaluations }}).  Students who do not fully participate in the team evaluation process will be penalized on their final Team and Staff Evaluation score.
 
 __How To Submit:__ Scrum Masters should fill out a [Sprint Report]({{ site.data.externallinks.sprint_report }}) and submit it to Gradescope by noon on Sunday at the completion of the sprint so they can reference it.  Scrum Masters -must- select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The main branch of your GitHub repo should be live on Heroku.
