@@ -64,8 +64,8 @@ All PMAs __must__ meet the base requirements listed below.
 	- A list of Members (which will be a set of [0 to many] Common Users)
 	- Description
 	- [0 to many] files uploaded to Amazon S3
-	- An in-system place to post messages to other members of the project
-
+	- Functionality to post messages to other members of the project, implemented as part of the PMA (i.e. not using an external app)
+	
 - All members of a project can see all messages and files associated with the project.
 
 - Things that can be included in a project, but are not required, include:
@@ -79,7 +79,7 @@ All PMAs __must__ meet the base requirements listed below.
 ### Anonymous User
 {: .no_toc }
 
-- The PMA shall allow an anonymous user to view a listing of all projects and the project's owner.  The PMA can, but is not required to, show an anonymous user other high-level information, such as description or creation date if they are a part of the PMA design.
+- The PMA shall allow an anonymous user to view a listing of all projects and the project's owner.  The PMA can, but is not required to, show an anonymous user other high-level information, such as description or creation date if that data is a part of the PMA design.
 - No information about the contents of a project, including files, members, messages, etc., should be visible to an anonymous user.
 - The PMA shall provide a button for an anonymous user to login to the system.
 
@@ -87,7 +87,7 @@ All PMAs __must__ meet the base requirements listed below.
 {: .no_toc }
 
 - The PMA shall allow a common user to create an account in the system using their Google account.
-- When a common user creates an account, a profile should be created for the user.  A profile should consist of, at a minimum, the user's real name, the user's Google account/address, and the date they joined the PMA.  Other data, such as a profile picture, interests, description, etc. can be added based on the type of PMA.
+- When a common user creates an account, a profile should be created for the user.  A profile should consist of, at a minimum, the user's real name, the user's Google account/address, and the date they joined the PMA.  Other data, such as a profile picture, interests, description, etc. can be added based on the nature of the PMA.
 - A common user shall have the ability to create a new project.  When they create a new project, the automatically become the owner of the project.  See [Projects](#projects) for more information about what is needed when a project is created.
 - A common user shall have the ability to delete a projects that they own, but no other projects.  
 - A common user shall have the ability to request to join a project through a button in the system on the project's description in a reasonable way.  
