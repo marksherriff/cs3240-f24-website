@@ -40,9 +40,9 @@ All PMAs __must__ meet the base requirements listed below.
 
 - All projects in a PMA must have the ability to have [0 to many] files associated with them.  Examples may include: PDFs of homework assignments that teams are working on for a teamwork PMA, images of box art of DVDs for a collection management PMA, etc.
 
-- All PMAs must incorporate cloud storage through Amazon S3 to handle file uploads.  No submissions should be stored in Heroku as they will be deleted when your dyno is restarted!
+- All PMAs must incorporate cloud storage through Amazon S3 to handle file uploads.  No uploads should be stored in Heroku as they will be deleted when your dyno is restarted!
 
-- PMAx must be able to accept the following file types:
+- PMAs must be able to accept the following file types:
 	- .txt / plain text
 	- .pdf / Adobe PDF documents
 	- .jpg / JPEG Images
@@ -73,7 +73,7 @@ All PMAs __must__ meet the base requirements listed below.
 	- Due date
 	- Live chat
 
-- When a project is delete, all information stored in the PostgreSQL database, including title, members, description, etc., and all files store on Amazon S3 should be deleted as well.  Projects cannot be recovered after they have been deleted.
+- When a project is deleted, all information stored in the PostgreSQL database, including title, members, description, etc., and all files store on Amazon S3 should be deleted as well.  Projects cannot be recovered after they have been deleted.
 
 
 ### Anonymous User
