@@ -181,6 +181,8 @@ __Only Four Team Members__ - If your team only has 4 members due to the number o
 
 ## Sprint Information
 
+__Under Construction: Dates are currently correct, but sprint goals need to be updated for this semester's project.__
+
 For each sprint check, your team must meet the minimum requirements shown below for each sprint to earn full XP.  Faculty will not override a TA's decision except in extreme circumstances.  
 
 ### Sprint 1: {{site.data.semesterinfo.sprint_1.goal}}
@@ -204,7 +206,7 @@ __How To Submit:__ Scrum Masters should fill out a [Sprint Report]({{ site.data.
 __Sprint Duration:__  {{site.data.semesterinfo.sprint_2.duration}}    
 __Sprint Due:__ {{site.data.semesterinfo.sprint_2.sprint_check}}
 
-__Goal:__ Spend most of this sprint working as a team to elicit the full requirements for your system.  Note that while the final Requirements Document is the responsibility of the Requirements Manager, ALL TEAM MEMBERS are expected to contribute to gathering and refining the final set of requirements.  Once you have a good set of user stories / issues / tasks for your team to work on, add these as Issues to your GitHub Issues page on your team's repository.
+__Goal:__ Spend most of this sprint working as a team to elicit the full requirements for your system.  Note that while the final Requirements Document is the responsibility of the Requirements Manager, _all team members_ are expected to contribute to gathering and refining the final set of requirements.  Once you have a good set of user stories / issues / tasks for your team to work on, add these as Issues to your GitHub Issues page on your team's repository.
 
 __Requirements:__ The team must have a "reasonable" set of user stories / issues in GitHub Issues.  We do not expect you to have your final set of features at this point.  However, you need to be able to show the TA that you have started gathering requirements data and that you have converted at least some of this information into GitHub Issues.  The Requirements Manager will receive a separate score for the requirements document, which is due by the date indicated in Gradescope.
 
@@ -214,6 +216,8 @@ __Requirements:__ The team must have a "reasonable" set of user stories / issues
 - ["Good" Example from Fall 2020](https://docs.google.com/document/d/1RxUBAEFjk0HpQ1aFOOX830nenFBX_Idao3vRVBYop1A/edit?usp=sharing)
 
 __XP Allocation:__
+
+_Coming Soon!_
 
 __Team Evals:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form here: [Student Team Sprint Evaluations]({{ site.data.externallinks.sprint_team_evaluations }})
 
@@ -228,6 +232,10 @@ __Goal:__ All projects must have a user account feature for students to login wi
 
 __Requirements:__ A user with a Google Account can login to the system and the system shows in some way that that user has indeed logged in.  You should not lock your app to just @virginia.edu accounts.  You must show that both a regular user account _and_ a site admin account can login and that they get different screens.  Note the requirements for the different types of users above.  Print the user's name and account name to the screen to show that it works.  If you want to start working on more requirements, you absolutely can do so.  Your team must be updating GitHub Issues as appropriate throughout the rest of the project.
 
+__XP Allocation:__
+
+_Coming Soon!_
+
 __Team Evals:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form here: [Student Team Sprint Evaluations]({{ site.data.externallinks.sprint_team_evaluations }}).  Students who do not fully participate in the team evaluation process will be penalized on their final Team and Staff Evaluation score.
 
 __How To Submit:__ Scrum Masters should fill out a [Sprint Report]({{ site.data.externallinks.sprint_report }}) and submit it to Gradescope by noon on Sunday at the completion of the sprint so they can reference it.  Scrum Masters -must- select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The main branch of your GitHub repo should be live on Heroku.
@@ -239,7 +247,11 @@ __Sprint Due:__ {{site.data.semesterinfo.sprint_4.sprint_check}}
 
 __Goal:__ All projects must allow a user to upload files to Amazon S3.
 
-__Requirements:__ A major component of your system is to allow users to upload files to a permanent storage location (i.e. not directly to your Heroku installation).  Using Amazon S3, implement the necessary features to allow users (anonymous and logged in) to upload the three file types listed in the requirements above and show that the files can be viewed by a site admin through the website itself (not by just going directly to S3.)  GitHub Actions CI MUST be operational with at least multiple test cases in order to earn full XP.  As you are just getting started with testing, this is more showing us that you have the process setup and that you have some passing tests.  Your team must be updating GitHub Issues as appropriate throughout the rest of the project.
+__Requirements:__ A major component of your system is to allow users to upload files to a permanent storage location (i.e. not directly to your Heroku installation).  Using Amazon S3, implement the necessary features to allow users to upload the three file types listed in the requirements above and show that the files can be viewed by a site admin through the website itself (not by just going directly to S3.)  GitHub Actions CI MUST be operational with at least multiple test cases in order to earn full XP.  As you are just getting started with testing, this is more showing us that you have the process setup and that you have some passing tests.  Your team must be updating GitHub Issues as appropriate throughout the rest of the project.
+
+__XP Allocation:__
+
+_Coming Soon!_
 
 __Team Evals:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form here: [Student Team Sprint Evaluations]({{ site.data.externallinks.sprint_team_evaluations }}).  Students who do not fully participate in the team evaluation process will be penalized on their final Team and Staff Evaluation score.
 
@@ -254,6 +266,10 @@ __Goal:__ The Software Architect takes the lead in guiding the team through the 
 
 __Requirements:__ At the beginning of Sprint 5, the staff will introduce a requirements change to the project.  The Software Architect is responsible for leading the team through this change and documenting the needed architectural changes to handle the update.  
 
+__XP Allocation:__
+
+_Coming Soon!_
+
 __Team Evals:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form here: [Student Team Sprint Evaluations]({{ site.data.externallinks.sprint_team_evaluations }}).  Students who do not fully participate in the team evaluation process will be penalized on their final Team and Staff Evaluation score.
 
 __How To Submit:__ Scrum Masters should fill out a [Sprint Report]({{ site.data.externallinks.sprint_report }}) and submit it to Gradescope by noon on Sunday at the completion of the sprint so they can reference it.  Scrum Masters -must- select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The main branch of your GitHub repo should be live on Heroku.
@@ -266,6 +282,10 @@ __Sprint Due:__ {{site.data.semesterinfo.sprint_6.sprint_check}}
 __Goal:__ After Sprint 6 is complete, you are going to have other students test your system.  So you need a working system with most all of your functionality ready to go.  The app may not be fully polished and still needs a bit of work, but it needs to be usable from beginning to end.  Your team must be updating GitHub Issues as appropriate throughout the rest of the project.
 
 __Requirments and Full Beta Version:__ In the opinion of the TA, you have an app that is ready for other students to test out (e.g. it doesn't crash, it looks reasonably good, it has most features, etc.).  You will earn 25 XP for the sprint check plus 100 XP as the first half of your overall project score of 250 XP (basically, if you have a working app at this point, we know your final project grade will be at least 100/250 XP, so we can give you those points now).
+
+__XP Allocation:__
+
+_Coming Soon!_
 
 __Team Evals:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form here: [Student Team Sprint Evaluations]({{ site.data.externallinks.sprint_team_evaluations }}).  Students who do not fully participate in the team evaluation process will be penalized on their final Team and Staff Evaluation score.
 
