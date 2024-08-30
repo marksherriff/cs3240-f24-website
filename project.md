@@ -193,7 +193,7 @@ __Goal:__ Have your initial meeting as a team and determine who will be doing wh
 __Requirements and XP Allocation:__      
 
 - 15 XP: Complete the Team Declaration form above.
-- 10 XP: GitHub repo initialized and all team member accounts present.
+- 10 XP: GitHub repo initialized and all team member accounts have joined the project.
 
 __Team Evals:__ No Team Evals this week.
 
@@ -227,7 +227,7 @@ __How To Submit:__ Scrum Masters should fill out a [Sprint Report]({{ site.data.
 __Sprint Duration:__  {{site.data.semesterinfo.sprint_3.duration}}    
 __Sprint Due:__ {{site.data.semesterinfo.sprint_3.sprint_check}}
 
-__Goal:__ All projects must have a user account feature for students to login with.  To accomplish this, you are to integrate Google login to your app.
+__Goal:__ All PMAs must have a user account feature for students to login with.  To accomplish this, you are to integrate Google login to your app.
 
 __Requirements:__ A user with a Google Account can login to the system and the system shows in some way that that user has indeed logged in. You must show that both a Common User account _and_ a PMA Administrator account can login and that they get different screens.  Note the requirements for the different types of users above.  Print the user's name and account name to the screen to show that it works.  Your team must be updating GitHub Issues as appropriate throughout the rest of the project.
 
@@ -247,7 +247,7 @@ __Sprint Due:__ {{site.data.semesterinfo.sprint_4.sprint_check}}
 
 __Goal:__ All projects must allow a user to upload files to Amazon S3.
 
-__Requirements:__ A major component of your system is to allow users to upload files to a permanent storage location (i.e. not directly to your Heroku installation).  Using Amazon S3, implement the necessary features to allow users to upload the three file types listed in the requirements above and show that the files can be viewed by another member of the project through the website itself (not by just going directly to S3.)  GitHub Actions CI MUST be operational with at least multiple test cases in order to earn full XP.  As you are just getting started with testing, this is more showing us that you have the process setup and that you have some passing tests.  Your team must be updating GitHub Issues as appropriate throughout the rest of the project.
+__Requirements:__ A major component of your system is to allow users to upload files to a permanent storage location (i.e. not directly to your Heroku installation).  Using Amazon S3, implement the necessary features to allow users to upload the three file types listed in the requirements above and show that the files can be viewed by another member of the project through the website itself (not by just going directly to S3.)  GitHub Actions CI should be operational with at least multiple test cases in order to earn full XP.  As you are just getting started with testing, this is more showing us that you have the process setup and that you have some passing tests.  Your team must be updating GitHub Issues as appropriate throughout the rest of the project.
 
 __XP Allocation:__
 
