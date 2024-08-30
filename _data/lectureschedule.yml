@@ -135,7 +135,7 @@
   type: lecture
   date: 11/07
   coursepack: "https://www.cs3240.org/modules/v&v/v-and-v/"
-  due: "GP-G: V&V Techniques (In-Class^)"
+  due: "GP-G: Acceptance Testing (In-Class^)"
   due_link: # 
 
 - topic: DEI in Software Engineering
