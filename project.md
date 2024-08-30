@@ -208,7 +208,7 @@ __Sprint Due:__ {{site.data.semesterinfo.sprint_2.sprint_check}}
 
 __Goal:__ Spend most of this sprint working as a team to elicit the full requirements for your system.  Note that while the final Requirements Document is the responsibility of the Requirements Manager, _all team members_ are expected to contribute to gathering and refining the final set of requirements.  Once you have a good set of user stories / issues / tasks for your team to work on, add these as Issues to your GitHub Issues page on your team's repository.
 
-__Requirements:__ The team must have a "reasonable" set of user stories / issues in GitHub Issues.  We do not expect you to have your final set of features at this point.  However, you need to be able to show the TA that you have started gathering requirements data and that you have converted at least some of this information into GitHub Issues.  The Requirements Manager will receive a separate score for the requirements document, which is due by the date indicated in Gradescope.
+__Requirements:__ The team must have a "reasonable" set of user stories / issues in GitHub Issues to begin with (around 10 is a lower-bound target).  We do not expect you to have your final set of features at this point.  However, you need to be able to show the TA that you have gathered requirements data and that you have converted at least some of this information into GitHub Issues.  The Requirements Manager will receive a separate score for the requirements document, which is due by the date indicated in Gradescope.  The team also needs to ensure Heroku is set up properly and that you can deploy at least the basic, default Django app.
 
 - [Example Requirements Document from Spring 2020](https://docs.google.com/document/d/1l39MWsVEX8LWcQ16Wo5-PXyaKhfm_O6j-1Uj6wj8RUU/edit?usp=sharing)
 - ["Excellent" Example from Fall 2020](https://docs.google.com/document/d/1aqeWWhA1QztrM_6iAI1PF3FjP8VTvOqCXhe5w9D9GaU/edit?usp=sharing)
@@ -217,7 +217,8 @@ __Requirements:__ The team must have a "reasonable" set of user stories / issues
 
 __XP Allocation:__
 
-_Coming Soon!_
+- 15 XP: Team has populated GitHub Issues with a reasonable number of issues/features (~10 at least) that are appropriate for the project.
+- 10 XP: Team can deploy the basic, default Django app to Heroku.
 
 __Team Evals:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form here: [Student Team Sprint Evaluations]({{ site.data.externallinks.sprint_team_evaluations }})
 
@@ -230,11 +231,12 @@ __Sprint Due:__ {{site.data.semesterinfo.sprint_3.sprint_check}}
 
 __Goal:__ All projects must have a user account feature for students to login with.  To accomplish this, you are to integrate Google login to your app.
 
-__Requirements:__ A user with a Google Account can login to the system and the system shows in some way that that user has indeed logged in.  You should not lock your app to just @virginia.edu accounts.  You must show that both a regular user account _and_ a site admin account can login and that they get different screens.  Note the requirements for the different types of users above.  Print the user's name and account name to the screen to show that it works.  If you want to start working on more requirements, you absolutely can do so.  Your team must be updating GitHub Issues as appropriate throughout the rest of the project.
+__Requirements:__ A user with a Google Account can login to the system and the system shows in some way that that user has indeed logged in. You must show that both a Common User account _and_ a PMA Administrator account can login and that they get different screens.  Note the requirements for the different types of users above.  Print the user's name and account name to the screen to show that it works.  Your team must be updating GitHub Issues as appropriate throughout the rest of the project.
 
 __XP Allocation:__
 
-_Coming Soon!_
+- 15 XP: Team can show that a Common User and a PMA Administrator can both login and be shown something different based upon their user role.
+- 10 XP: Team worked on other features other than the Google login and is on track.
 
 __Team Evals:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form here: [Student Team Sprint Evaluations]({{ site.data.externallinks.sprint_team_evaluations }}).  Students who do not fully participate in the team evaluation process will be penalized on their final Team and Staff Evaluation score.
 
@@ -247,11 +249,12 @@ __Sprint Due:__ {{site.data.semesterinfo.sprint_4.sprint_check}}
 
 __Goal:__ All projects must allow a user to upload files to Amazon S3.
 
-__Requirements:__ A major component of your system is to allow users to upload files to a permanent storage location (i.e. not directly to your Heroku installation).  Using Amazon S3, implement the necessary features to allow users to upload the three file types listed in the requirements above and show that the files can be viewed by a site admin through the website itself (not by just going directly to S3.)  GitHub Actions CI MUST be operational with at least multiple test cases in order to earn full XP.  As you are just getting started with testing, this is more showing us that you have the process setup and that you have some passing tests.  Your team must be updating GitHub Issues as appropriate throughout the rest of the project.
+__Requirements:__ A major component of your system is to allow users to upload files to a permanent storage location (i.e. not directly to your Heroku installation).  Using Amazon S3, implement the necessary features to allow users to upload the three file types listed in the requirements above and show that the files can be viewed by another member of the project through the website itself (not by just going directly to S3.)  GitHub Actions CI MUST be operational with at least multiple test cases in order to earn full XP.  As you are just getting started with testing, this is more showing us that you have the process setup and that you have some passing tests.  Your team must be updating GitHub Issues as appropriate throughout the rest of the project.
 
 __XP Allocation:__
 
-_Coming Soon!_
+- 15 XP: Team can demonstrate how a Common User can upload a file to the PMA and that the file can be viewed by another member of the project.
+- 10 XP: Team worked on other features other than Amazon S3 and is on track.
 
 __Team Evals:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form here: [Student Team Sprint Evaluations]({{ site.data.externallinks.sprint_team_evaluations }}).  Students who do not fully participate in the team evaluation process will be penalized on their final Team and Staff Evaluation score.
 
@@ -266,9 +269,12 @@ __Goal:__ The Software Architect takes the lead in guiding the team through the 
 
 __Requirements:__ At the beginning of Sprint 5, the staff will introduce a requirements change to the project.  The Software Architect is responsible for leading the team through this change and documenting the needed architectural changes to handle the update.  
 
+__Requirments Change:__ _Will be revealed just before Sprint 5 begins._
+
 __XP Allocation:__
 
-_Coming Soon!_
+- 15 XP: Requirements change handled effectively.
+- 10 XP: Team worked on other features other than Amazon S3 and is on track.
 
 __Team Evals:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form here: [Student Team Sprint Evaluations]({{ site.data.externallinks.sprint_team_evaluations }}).  Students who do not fully participate in the team evaluation process will be penalized on their final Team and Staff Evaluation score.
 
@@ -285,7 +291,9 @@ __Requirments and Full Beta Version:__ In the opinion of the TA, you have an app
 
 __XP Allocation:__
 
-_Coming Soon!_
+- 100 XP: Beta Version works!  App turns on and does things!  It's ready for users!
+- 15 XP: PMA is nearly feature complete.
+- 10 XP: User interface shows thoughtfulness on the part of the team and is ready for beta testers.
 
 __Team Evals:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form here: [Student Team Sprint Evaluations]({{ site.data.externallinks.sprint_team_evaluations }}).  Students who do not fully participate in the team evaluation process will be penalized on their final Team and Staff Evaluation score.
 
@@ -307,7 +315,7 @@ __Goal:__ It's the final week to polish up your app and make changes based on th
 
 ## Final Grading Information
 
-The final project is worth a total of 250 XP.  (100 XP will be awarded after Sprint 6 for your Beta version and the remaining 150 XP will be awarded by the professors after final demos.)  Like the other assessments in this course, grading is overall wholistic - that is, there is no specific point-for-point breakdown for the rubric.  One reason for this is that this is simply not how software is delivered in real-life.  There are basically only four outcomes:
+The final project is worth a total of 250 XP.  (100 XP will be awarded after Sprint 6 for your Beta version and the remaining 150 XP will be awarded by the professors after final demos.)  Like the other assessments in this course, grading is overall holistic - that is, there is no specific point-for-point breakdown for the rubric.  One reason for this is that this is simply not how software is delivered in real-life.  There are basically only four outcomes:
 
 - You meet the expectations of the customer within reason and both parties are satisfied with the outcome;
 - You exceed the expectations of the customer, potentially generating more good will, a good reference, or more future business;
