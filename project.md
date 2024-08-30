@@ -181,8 +181,6 @@ __Only Four Team Members__ - If your team only has 4 members due to the number o
 
 ## Sprint Information
 
-__Under Construction: Dates are currently correct, but sprint goals need to be updated for this semester's project.__
-
 For each sprint check, your team must meet the minimum requirements shown below for each sprint to earn full XP.  Faculty will not override a TA's decision except in extreme circumstances.  
 
 ### Sprint 1: {{site.data.semesterinfo.sprint_1.goal}}
