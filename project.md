@@ -7,8 +7,6 @@ nav_order: 4
 # Team Project Information
 {: .no_toc }
 
-__NOTE: This description is currently in Beta form and may still change in the coming days.__
-
 ## Table of Contents
 {: .no_toc .text-delta }
 
