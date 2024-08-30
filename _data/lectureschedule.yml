@@ -118,7 +118,7 @@
   coursepack: "https://www.cs3240.org/modules/design/usability/"
   due: "GP-F: Wireframes (In-Class^)"
 
-- topic: Quiz 2 - Software Architecture and V&V
+- topic: Quiz 2 - Software Architecture and Design
   type: quiz
   date: 10/29
 
@@ -170,7 +170,7 @@
   type: holiday
   date: 11/28
 
-- topic: Quiz 3 - Usability and Professional Issues
+- topic: Quiz 3 - V&V and Professional Issues
   type: quiz
   date: 12/03
 
