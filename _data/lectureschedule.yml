@@ -103,16 +103,16 @@
 - topic: Reading and Understanding Design Documents
   type: lecture
   date: 10/17
-  coursepack: "https://docs.google.com/presentation/d/1fkEQYXRyqcEQgDm9erP3G81TVbzH1yxvlM1yL3Vqz4o/edit?usp=sharing"
+  coursepack: "https://www.cs3240.org/modules/design/designdiagrams/"
 
 - topic: Reading Design Documents
   type: lecture
   date: 10/22
-  coursepack: #
+  coursepack: 'https://www.cs3240.org/modules/design/designdiagrams/'
   due: "GP-E: Design Diagrams (In-Class^)"
   due_link: #
 
-- topic: Wireframes
+- topic: Software Usability
   type: lecture
   date: 10/24
   coursepack: "https://www.cs3240.org/modules/design/usability/"
