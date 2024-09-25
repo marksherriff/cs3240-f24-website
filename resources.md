@@ -46,7 +46,7 @@ This tool is great because it tells you whether you are passing WCAG contrast gu
 * [How to setup config variables so you don't have to store secret keys/API keys in GitHub](https://devcenter.heroku.com/articles/config-vars)
 * [Setting up WhiteNoise to handle static files](https://whitenoise.readthedocs.io/en/stable/django.html)
 
-## Live Demo Recordings
+### Live Demo Recordings
 
 * [Sherriff's Demo on Getting Django and Heroku to work together from Fall 2023](https://www.cs.virginia.edu/~sherriff/cs3240/DjangoHeroku.mp4)
 
