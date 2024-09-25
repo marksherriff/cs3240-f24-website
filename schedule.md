@@ -47,6 +47,10 @@ nav_order: 3
     </a>
 {% endif %}
 {% endif %}
+{% if day.note %}
+<br>
+<em>{{day.note}}</em>
+{% endif %}
 </td>
 <td class="sched">
 {% if day.due %}

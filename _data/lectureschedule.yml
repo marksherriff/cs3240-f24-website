@@ -74,6 +74,7 @@
   coursepack: https://www.cs3240.org/modules/architecture/Django-and-MVC/
   topic2: Risk Management
   coursepack2: https://www.cs3240.org/modules/requirements/risk-management/
+  note: "No in-person class today.  See Canvas for details."
 
 - topic: Software Architecture
   type: lecture
