@@ -50,7 +50,7 @@ This tool is great because it tells you whether you are passing WCAG contrast gu
 
 * [Sherriff's Demo on Getting Django and Heroku to work together from Fall 2023](https://www.cs.virginia.edu/~sherriff/cs3240/DjangoHeroku.mp4)
 
-_Note: This recording talks about Amazon S3 as being an option for saving images, which it was for F23.  For S24, it is a requirement and the other options presented in this video do not apply to this semester._
+_Note: This recording talks about Amazon S3 as being an option for saving images, which it was for F23.  For F24, it is a requirement and the other options presented in this video do not apply to this semester._
 
 
 ### Deploying to Heroku
