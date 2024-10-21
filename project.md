@@ -55,7 +55,7 @@ All PMAs __must__ meet the base requirements listed below.
 	- Owner (which will be a Common User)
 	- A list of Members (which will be a set of [0 to many] Common Users)
 	- Description
-	- [0 to many] files uploaded to Amazon S3
+	- [0 to many] files uploaded to Amazon S3 _(Clarification: This means multiple files over time.  It does not have to support multiple files in a single submission.)_
 	- A set of messages posted for the project, implemented as part of the PMA (i.e. not using an external app) 
 1. All members of a project can see all messages and files associated with the project.
 1. Things that can be included in a project, but are not required, include:
