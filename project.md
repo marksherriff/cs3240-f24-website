@@ -55,9 +55,14 @@ All PMAs __must__ meet the base requirements listed below.
 	- Owner (which will be a Common User)
 	- A list of Members (which will be a set of [0 to many] Common Users)
 	- Description
-	- [0 to many] files uploaded to Amazon S3
+	- [0 to many] files uploaded to Amazon S3 _(Clarification: This means multiple files over time.  It does not have to support multiple files in a single submission.)_
 	- A set of messages posted for the project, implemented as part of the PMA (i.e. not using an external app) 
 1. All members of a project can see all messages and files associated with the project.
+1. _New Requirement:_ Each file should also have certain metadata associated with it that users can add when they upload the file.  The metadata does not have to be able to be edited after submission, but the users would appreciate it.  Metadata for files should include at a minimum:
+	- File title (not the .pdf file name)
+	- Timestamp of submission
+	- A text description of the contents of the file (Example: "This file contains the meeting minutes for Oct. 21, 2024.")
+	- A list of keywords allowing the file to be quickly identified (Example: Minutes, Event Planning, Map, etc.)
 1. Things that can be included in a project, but are not required, include:
 	- Creation date
 	- Due date
@@ -265,7 +270,7 @@ __Goal:__ The Software Architect takes the lead in guiding the team through the 
 
 __Requirements:__ At the beginning of Sprint 5, the staff will introduce a requirements change to the project.  The Software Architect is responsible for leading the team through this change and documenting the needed architectural changes to handle the update.  
 
-__Requirments Change:__ _Will be revealed just before Sprint 5 begins._
+__Requirments Change:__ See [Projects](https://f24.cs3240.org/project.html#projects) above.  After seeing how you handled uploading files to Amazon S3, your "customer" realized that searching through PDFs was going to be a huge headache unless they knew what they were looking for.  They want you to add the ability to add metadata to a file at upload time per the new requirement above.  The "customer" would love to see you implement a search feature based on the keywords if you have time... but they don't have the money to pay you more.
 
 __XP Allocation:__
 
