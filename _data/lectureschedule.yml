@@ -139,17 +139,17 @@
   due: "GP-G: Acceptance Testing (In-Class^)"
   due_link: # 
 
-- topic: DEI in Software Engineering
-  type: lecture
-  date: 11/12
-  coursepack: "https://www.cs3240.org/modules/ethics%20&%20professionalism/jedi/"
-
 - topic: SE Code of Ethics
   type: lecture
-  date: 11/14
+  date: 11/12
   coursepack: "https://www.cs3240.org/modules/ethics%20&%20professionalism/se-code-of-ethics/"
   due: "GP-H: Ethics (In-Class^)"
   due_link: #
+
+- topic: DEI in Software Engineering
+  type: lecture
+  date: 11/14
+  coursepack: "https://www.cs3240.org/modules/ethics%20&%20professionalism/jedi/"
 
 - topic: Engineering Secure Software
   type: lecture
