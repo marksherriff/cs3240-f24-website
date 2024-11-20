@@ -156,16 +156,17 @@
   date: 11/19
   coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/security/"
 
-- topic: Software Maintenance
-  type: lecture
-  date: 11/21
-  coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/maintenance/"
-
 - topic: Software Licensing
   type: lecture
   date: 11/26
   coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/licensing/"
+
+- topic: Software Maintenance
+  type: lecture
+  date: 11/21
+  coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/maintenance/"
   due: "GP-I: Secure Software (Gradescope)"
+  note: "No in-person class today.  See Canvas for details."
 
 - topic: Thanksgiving (No classes)
   type: holiday
