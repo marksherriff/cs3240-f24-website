@@ -76,7 +76,7 @@ Nope!
 
 See the signup sheet [right here](https://docs.google.com/forms/d/e/1FAIpQLSdXkI_2ASmmxc4M6Mr94zkhBMu2Lc2HemDvPeVtitNeBGNtjQ/viewform?usp=dialog) and in the announcement that was sent out on Tuesday, December 10.
 
-## Q: I signed up fort he final exam!  Where do I go?
+## Q: I signed up for the final exam!  Where do I go?
 
 The exam is in Rice 130, the same room we have class in.
 
