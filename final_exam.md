@@ -90,4 +90,8 @@ You can go to the form above and change your response.  You can also just not co
 
 ## Q: How long does it take to grade the final exam?
 
-If you are just trying to go from a B+ or A- to an A, we can grade those as they are submitted the day of the final.  If you are making up a quiz or have to attempt a bunch of questions, it takes longer.  They should be graded in 24-48 hours or so.
+If you are just trying to go from a B+ or A- to an A, we can grade those as they are submitted the day of the final.  If you are making up a quiz or have to attempt a bunch of questions, it takes longer.  They should be graded in 24-48 hours or so.  We may hold grades back a bit based on regrade requests.
+
+## Q: I have 950 XP.  Is that an A?
+
+Yes, that is an A.  The [XP Chart](/syllabus.html#assessment-and-grading) shows the minimum amount of XP required to reach that level.  So, similarly, 900 is the lowest possible score to earn an A-, etc.
